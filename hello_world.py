@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # Open the file in write mode
 file = open("/usr/local/bin/dataset/hello_world.txt", "w")
 
